@@ -1,0 +1,10 @@
+bind-addr: 0.0.0.0:8443
+auth: password
+password: mewkmdasosafuio3422 # This is randomly generated for each config.yaml
+admin: osdifnasdfiopsdfn3556 # This is randomly generated for each config.yaml
+cert: false
+extensions-dir: /config/extensions
+firebase-apiKey: '<API_KEY>'
+firebase-authDomain: '<DATABASE_NAME>.firebaseapp.com'
+firebase-databaseURL: 'https://<DATABASE_NAME>.firebaseio.com'
+firebase-ref: '-MCyz2LOkxQUSJBASlcG' # Random string as ref in the realtime database
